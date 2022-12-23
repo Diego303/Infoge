@@ -1,0 +1,4 @@
+python-twitter-v2
+httplib2==0.15.0
+greppo
+geopandas

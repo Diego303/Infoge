@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#importante: para probar el servidor web greppo utilizar este script o el comando, no ejecutar el archivo .py
+greppo serve test_greppo.py
